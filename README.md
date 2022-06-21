@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey! I'm Chaseyy! \[They/He] 
+
+------------
+
+I'm an Australian College student, studying IT in college and hoping to work in IT after school. 
+
+------------
+
+Currently working on : 
+
+- Nothing interesting right now! Check back later for updates!
+
