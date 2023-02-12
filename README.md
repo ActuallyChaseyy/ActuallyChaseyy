@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ActuallyChaseyy/ActuallyChaseyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! I'm Chaseyy! \[They/He] 
+Hey! I'm Chaseyy! \[They/He]. I'm a primarily backend developer who very rarely puts projects on GitHub! 
 
-------------
+I have experience working with Python, common WebDev languages such as HTML, CSS and JS (i hate js /hj), Java, C#, and more. 
 
-I'm an Australian College student, studying IT in college and hoping to work in IT after school. 
+Currently, I am taking a Tafe course in ICT, teaching me skills in the areas of Network Engineering, intro to Python and intro to WebDev 
 
-------------
-
-Currently working on : 
-
-- Nothing interesting right now! Check back later for updates!
-
+-----
