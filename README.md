@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! I'm Chaseyy! \[They/He]. I'm a primarily backend developer who very rarely puts projects on GitHub! 
+Hey! I'm Chaseyy! \[They/It]. I'm a backend developer who very rarely puts projects on GitHub! 
 
 I have experience working with Python, common WebDev languages such as HTML, CSS and JS (i hate js /hj), Java, C#, and more. 
 
-Currently, I am taking a Tafe course in ICT, teaching me skills in the areas of Network Engineering, intro to Python and intro to WebDev 
+Currently, I am taking a Tafe course in ICT, teaching me skills in the areas of Network Engineering, intro to Python and intro to WebDev. 
 
 -----
+
+You can contact me on [twitter](https://twitter.com/ActuallyChaseyy) , or on Discord -> Chaseyy#9999
