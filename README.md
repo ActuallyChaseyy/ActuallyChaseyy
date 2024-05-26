@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hey! I'm Chase Anthony (Chaseyy)! \[He/They/It]. I'm a backend developer who very rarely puts projects on GitHub! 
 
-I have experience working with Python, common WebDev languages such as HTML, CSS and JS (i hate js /hj), Java, C#, and more. 
+I have experience working with Python, Java, C#, and more. 
 
 I have attained my Certificates 3 & 4 in Information Technology (Network Specialised). I also did a course on computer science. 
 
-I currently work as a Support Agent for a software company! 
+I currently work as a Support Agent for Software in the Australian VET Industry! 
 
 -----
 
