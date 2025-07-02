@@ -4,5 +4,4 @@ I'm currently learning rails.
 
 Want to contact me? Try the below: 
 - [twitter](https://x.com/ActuallyChaseyy)
-- [bluesky](https://bsky.app/profile/chaseyy.bsky.social)
 - Discord -> @chaseyy.
